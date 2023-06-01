@@ -10,7 +10,7 @@ Participants were informed that the GG task aimed to study a player's behaviour 
 Participants were also informed that they were the only ones who knew the outcome of the dice roll and were responsible for reporting if their predictions were true to the system, and were debriefed at the end regarding this cover story.
 
 ## Cognitive Control (CC)
-Participants performed 60 trials of a simple processing speed task, 80 trials of a simple response selection task, 160 trials of a response inhibition task, and 160 trials of a conflict resolution task. See details of the task https://github.com/neuropsychology/CognitiveControl.
+Participants performed 60 trials of a simple processing speed task, 80 trials of a simple response selection task, 160 trials of a response inhibition task, and 160 trials of a conflict resolution task. See details of the task https://github.com/neuropsychology/CognitiveControl. 
 
 
 # Data acquisition
@@ -28,3 +28,5 @@ Participants' physiological signals, that is their electrocardiogram (*ECG*), re
 
 ECG was collected using three ECG electrodes placed according to a modified Lead II configuration, and RSP was acquired using a respiration belt tightened over participants' upper abdomen. EDA, a measure of skin conductance, was acquired using electrodes placed on the middle and index fingers of subjects' non-dominant hands and EMG was obtained by measuring the electrical activity of the corrugator muscles.
 
+### Note
+With regards to the Cognitive Control task, physiological data was collected over 2 sessions for sub-S200303 as a result of technical errors during the recording. 
