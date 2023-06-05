@@ -1,3 +1,6 @@
+1.0.2 2023-06-05
+  - 1.0.2 2023-06-06
+  -   - Fix ses-02 physio data for sub-S200303 
 1.0.1 2023-06-01
   - version 1.1 beta - 1 Jun 2023 
   -  - Fix Cogntive Control Behavioral data to include data from all 4 Task Phases
